@@ -1,0 +1,3 @@
+# list of IP address for each roach
+#roachNum IPAddress (xxx.xxx.xx.xx or hostname, no quotes)
+0 132.163.82.72
